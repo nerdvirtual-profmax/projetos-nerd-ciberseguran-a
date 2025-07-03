@@ -10,7 +10,7 @@ Prepare-se para desafios dignos de Star Wars, batalhas contra forças invisívei
 ⚔️ Biografia: Mestre Max, Guardião da Cibersegurança
 🧙‍♂️ Nome de guerra digital: Mestre Max 🌐 Alinhamento tecnológico: Protetor da Ordem Azul (Blue Team) com incursões secretas na Ordem Vermelha (Red Team) 🧠 Especialidades: Firewall mental, lógica ofensiva, escudos sintáticos e rastreamento ético por camadas 🚨 Ranking galáctico: Mestre Nível IV da Guilda dos CyberGuardians 🕶️ Armas de escolha: Nmap, Wireshark, Metasploit e frases de impacto com precisão binária 📍 Base de operação: Minas Gerais, setorial sudoeste da rede brasileira de proteção
 
-> “A verdadeira segurança não está em impedir o ataque — está em antecipá-lo, neutralizá-lo e aprender com ele.” —
+> “A verdadeira segurança não está em impedir o ataque — está em antecipá-lo, neutralizá-lo e aprender com ele.” — Mestre Max, durante o Cerco dos Logs Sombrio
 
 ---
 
